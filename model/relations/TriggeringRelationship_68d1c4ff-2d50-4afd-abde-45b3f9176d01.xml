@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="synkront oppslag"
+    id="68d1c4ff-2d50-4afd-abde-45b3f9176d01">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_0d667a19-dfff-4fc8-9e37-5b9b950155fe.xml#0d667a19-dfff-4fc8-9e37-5b9b950155fe"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_8932708c-932a-43a7-a8da-1b16c77e009b.xml#8932708c-932a-43a7-a8da-1b16c77e009b"/>
+</archimate:TriggeringRelationship>
